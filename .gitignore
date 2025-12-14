@@ -1,0 +1,7 @@
+._pycache_/
+*.pyc
+back_view_labels/
+udder-bottom-dataset/
+vetra_back_pose_dataset/
+vetra_side_pose_dataset/
+vetra_udder_bottom_dataset/
