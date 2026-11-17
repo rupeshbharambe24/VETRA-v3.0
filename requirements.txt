@@ -1,0 +1,11 @@
+# Versions seen in the notebook logs: Python 3.11, Ultralytics 8.3.203, torch 2.6.0+cu124
+ultralytics==8.3.203
+torch
+torchvision
+segmentation-models-pytorch   # udder U-Net (notebooks/udder_seg.ipynb)
+opencv-contrib-python         # cv2.aruco for the scaling engine
+numpy
+pandas
+matplotlib
+pillow
+jupyter

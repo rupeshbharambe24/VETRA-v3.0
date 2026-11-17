@@ -18,7 +18,7 @@ from vetra_yolopose.model import VetraPoseNet
 # Default config for side-view training
 DEFAULT_SIDE_CFG = {
     # Base YOLOv8 pose model
-    "base_model": "yolov8n-pose.pt",
+    "base_model": "models/pretrained/yolov8n-pose.pt",
 
     # Dataset YAML for side-view keypoints
     "data_yaml": Path(
